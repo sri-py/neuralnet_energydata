@@ -2,7 +2,7 @@
 A repository on building a neural network to forecast the energy prices for Belgian Electrcity market by including the generation data from wind and solar under the management of Belpex.
 
 
-##Project Flow
+## Project Flow
 
 
 This project is mainly divided in three different parts. 
@@ -11,5 +11,5 @@ This project is mainly divided in three different parts.
 2. Neural Network development and training
 3. Data forecasting and insights
 
-###Data Import & Analysis
+### Data Import & Analysis
 
